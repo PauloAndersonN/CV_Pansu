@@ -1,0 +1,93 @@
+.header-section{
+	margin: auto;
+	width: 70%;
+	background: #fff;
+	border: 3px solid #73AD21;
+	padding: 10px;
+	margin-top: 25px;
+}
+
+.header-title{
+	margin-top: 20px;
+   
+	overflow: hidden;
+	text-align: left;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	border-bottom: green solid;
+	border-top: green solid;
+	width: 100%;
+	padding: 5px;
+}
+
+
+#header-name{
+	text-align: center;
+	letter-spacing: -.15rem;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	margin-bottom: 15px;
+	
+}
+
+.resume{
+	border: 3px solid #73AD21;
+	margin-top: 20px;
+	overflow: hidden;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.button {
+	margin: auto;
+	width: 220px;
+	height: 55px;
+	background-color: gold;
+	text-align: center;
+	padding: 10px;
+}
+
+.list-inline-item{
+	width: 10px;
+	height: 10px;
+
+
+}
+
+/*.section-cabecalho {
+	position: absolute;
+	left: 50%;
+	margin-left: -307px;
+	margin-top: 48px;
+	border:2px solid black;
+
+}
+
+#nome{
+
+	font-family: impact;
+	text-align: center;
+    font-size: 3rem;
+    letter-spacing: -.15rem;
+    line-height: 1;
+
+}
+
+.title-header{
+	background-color: white;
+	position: relative;
+	border-bottom: 2px solid black;
+}
+
+.resume {
+	background-color: purple;
+	border-color:solid peru 2px;
+	height: 200px;
+	width: 200px;
+
+	*/
+	
+
+
+
+}
+ 
+
