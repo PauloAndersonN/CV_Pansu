@@ -54,6 +54,57 @@
 	
 }
 
+.section-body{
+	margin: auto;
+	width: 70%;
+	background: #fff;
+	border: 3px solid #73AD21;
+	padding: 10px;
+	margin-top: 25px;
+}
+
+.skills-resume{
+	border: 3px solid #73AD21;
+	margin-top: 20px;
+	overflow: hidden;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.section-curses{
+	margin: auto;
+	width: 70%;
+	background: #fff;
+	border: 3px solid #73AD21;
+	padding: 10px;
+	margin-top: 25px;
+}
+
+.curses-resume{
+	border: 3px solid #73AD21;
+	margin-top: 20px;
+	overflow: hidden;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
+.section-education{
+	margin: auto;
+	width: 70%;
+	background: #fff;
+	border: 3px solid #73AD21;
+	padding: 10px;
+	margin-top: 25px;
+}
+
+.education-resume{
+	border: 3px solid #73AD21;
+	margin-top: 20px;
+	overflow: hidden;
+	text-align: left;
+	margin-bottom: 10px;
+}
+
 
 /*.section-cabecalho {
 	position: absolute;
