@@ -1,49 +1,42 @@
 .header-section{
 	margin: auto;
 	width: 70%;
-	background: #fff;
-	border: 3px solid #73AD21;
 	padding: 10px;
 	margin-top: 25px;
 }
 
+#header-name{
+	text-align: center;
+	letter-spacing: -.15rem;
+	font-family:'Indie Flower', cursive;
+	margin-bottom: 15px;
+	
+}
+
 .header-title{
 	margin-top: 20px;
-   
 	overflow: hidden;
 	text-align: left;
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	border-bottom: green solid;
-	border-top: green solid;
+	border-bottom: dimgray solid ;
+	border-top:dimgray solid 5px;
 	width: 100%;
 	padding: 5px;
 	
 }
 
+.stitles-top{
 
-#header-name{
-	text-align: center;
-	letter-spacing: -.15rem;
-	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-	margin-bottom: 15px;
-	
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
 }
 
 .resume{
-	border: 3px solid #73AD21;
-	margin-top: 20px;
+	margin-top: 10px;
 	overflow: hidden;
 	text-align: left;
 	margin-bottom: 10px;
-}
-
-.button {
-	margin: auto;
-	width: 220px;
-	height: 55px;
-	background-color: gold;
-	text-align: center;
-	padding: 10px;
 }
 
 
@@ -54,18 +47,31 @@
 	
 }
 
+.button {
+	margin: auto;
+	width: 220px;
+	height: 55px;
+	background-color: #738771;
+	text-align: center;
+	padding: 10px;
+	font-size: 20px;
+	color: floralwhite;
+	border-radius: 3%;
+	font-weight: 700;
+	
+}
+
+
+
 .section-body{
 	margin: auto;
 	width: 70%;
-	background: #fff;
-	border: 3px solid #73AD21;
 	padding: 10px;
-	margin-top: 25px;
+	margin-top: 10px;
 }
 
 .skills-resume{
-	border: 3px solid #73AD21;
-	margin-top: 20px;
+	margin-top: 10px;
 	overflow: hidden;
 	text-align: left;
 	margin-bottom: 10px;
@@ -74,15 +80,12 @@
 .section-curses{
 	margin: auto;
 	width: 70%;
-	background: #fff;
-	border: 3px solid #73AD21;
 	padding: 10px;
 	margin-top: 25px;
 }
 
 .curses-resume{
-	border: 3px solid #73AD21;
-	margin-top: 20px;
+	margin-top: 10px;
 	overflow: hidden;
 	text-align: left;
 	margin-bottom: 10px;
@@ -92,56 +95,23 @@
 	margin: auto;
 	width: 70%;
 	background: #fff;
-	border: 3px solid #73AD21;
 	padding: 10px;
 	margin-top: 25px;
 }
 
 .education-resume{
-	border: 3px solid #73AD21;
-	margin-top: 20px;
+	margin-top: 10px;
 	overflow: hidden;
 	text-align: left;
 	margin-bottom: 10px;
 }
 
-
-/*.section-cabecalho {
-	position: absolute;
-	left: 50%;
-	margin-left: -307px;
-	margin-top: 48px;
-	border:2px solid black;
-
-}
-
-#nome{
-
+.stitles{
 	font-family: impact;
-	text-align: center;
-    font-size: 3rem;
-    letter-spacing: -.15rem;
-    line-height: 1;
-
-}
-
-.title-header{
-	background-color: white;
-	position: relative;
-	border-bottom: 2px solid black;
-}
-
-.resume {
-	background-color: purple;
-	border-color:solid peru 2px;
-	height: 200px;
-	width: 200px;
-
-	*/
+	border-top: dimgrey solid 5px;
+	border-bottom: dimgray solid 3px;
+	margin-top: -25px;
+	padding-top: 3px; 
 	
-
-
-
 }
- 
 
